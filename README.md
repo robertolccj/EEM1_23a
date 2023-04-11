@@ -18,6 +18,7 @@ Página de apoio à disciplina de Eletricidade e Magnetismo 1, ministrada pelo p
 | [Semana 04](#semana-04) | (trabalho individual) |
 | [Semana 05](#semana-05) | Exercícios        |
 | [Semana 06](#semana-06) | Avaliação         |
+| [Semana 07](#semana-07) | Campo de um disco |
 
 
 
@@ -92,6 +93,22 @@ Página de apoio à disciplina de Eletricidade e Magnetismo 1, ministrada pelo p
 
  - [x] Avaliação;
  - [x] Resolução de uma (1) questão do livro;
+
+
+
+## Semana 07
+
+*10/04/2023 T2AB*
+
+ - [x] Campo de um disco carregado;
+ - [x] Dedução da equação;
+
+*12/04/2023 T4CD*
+
+ - [x] Deflexão de uma carga;
+ - [x] Análise do problema resolvido 22.04; 
+ - [x] Solução da questão 39;
+ - [x] Pós aula: questões 34 e 40 (entregar próxima semana);
 
 
 
