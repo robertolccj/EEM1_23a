@@ -19,6 +19,7 @@ Página de apoio à disciplina de Eletricidade e Magnetismo 1, ministrada pelo p
 | [Semana 05](#semana-05) | Exercícios        |
 | [Semana 06](#semana-06) | Avaliação         |
 | [Semana 07](#semana-07) | Campo de um disco |
+| [Semana 08](#semana-08) | Lei de Gauss      |
 
 
 
@@ -109,6 +110,23 @@ Página de apoio à disciplina de Eletricidade e Magnetismo 1, ministrada pelo p
  - [x] Análise do problema resolvido 22.04; 
  - [x] Solução da questão 39;
  - [x] Pós aula: questões 34 e 40 (entregar próxima semana);
+
+
+
+## Semana 08
+
+*17/04/2023 T2AB*
+
+ - [x] Fluxo Elétrico;
+ - [x] Sinal do fluxo;
+ - [x] Superfície Gaussiana;
+ - [x] Pós aula: exemplo 23.02;
+
+*19/04/2023 T4CD*
+
+ - [x] Lei de Gauss;
+ - [x] Análise do Exemplo 23.03;
+ - [x] Pós aula: questões 3 e 5;
 
 
 
