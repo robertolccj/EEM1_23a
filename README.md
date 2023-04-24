@@ -20,6 +20,7 @@ Página de apoio à disciplina de Eletricidade e Magnetismo 1, ministrada pelo p
 | [Semana 06](#semana-06) | Avaliação         |
 | [Semana 07](#semana-07) | Campo de um disco |
 | [Semana 08](#semana-08) | Lei de Gauss      |
+| [Semana 09](#semana-09) | Simetrias (gauss) |
 
 
 
@@ -127,6 +128,22 @@ Página de apoio à disciplina de Eletricidade e Magnetismo 1, ministrada pelo p
  - [x] Lei de Gauss;
  - [x] Análise do Exemplo 23.03;
  - [x] Pós aula: questões 3 e 5;
+
+
+
+## Semana 09
+
+*24/04/2023 T2AB*
+
+ - [x] Condutor Carregado (seção 23.3);
+ - [x] Simetria Cilíndrica (seção 23.4);
+ - [x] Simetria Planar (seção 23.5);
+ - [x] Discussão de Exemplos (23.05, 23.06, 23.07);
+
+*26/04/2023 T4CD*
+
+ - [ ] Simetria Esférica;
+ - [ ] Resolução de questões;
 
 
 
