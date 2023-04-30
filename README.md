@@ -7,6 +7,7 @@ Página de apoio à disciplina de Eletricidade e Magnetismo 1, ministrada pelo p
 2. [Cronograma e Contato do Professor](files/EEM1_plano.pdf)
 3. [Curso de Física - IFCE Sobral](https://ifce.edu.br/sobral/campus-sobral/cursos/superiores/licenciatura/fisica)
 4. [Atualizações](https://github.com/robertolccj/EEM1_23a/commits/main)
+5. [Outros Arquivos](https://mega.nz/folder/8KYkWLhQ#ieGSRJkFXVxjZ2PgcPkoWw)
 
 
 
