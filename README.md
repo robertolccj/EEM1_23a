@@ -7,7 +7,7 @@ Página de apoio à disciplina de Eletricidade e Magnetismo 1, ministrada pelo p
 
 ### Links Importantes
 
-1. [Pasta da disciplina](https://mega.nz/folder/8KYkWLhQ#ieGSRJkFXVxjZ2PgcPkoWw)
+1. [Pasta da disciplina](https://mega.nz/folder/8XRBkS4a#ZaypuNv4979f375PJ_no9w)
 2. [Sobre o professor](https://robertolccj.github.io/pesquisa/index.html)
 3. [Página oficial do curso](https://ifce.edu.br/sobral/campus-sobral/cursos/superiores/licenciatura/fisica)
 4. [Atualizações desta página](https://github.com/robertolccj/EEM1_23a/commits/main)
