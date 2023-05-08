@@ -44,6 +44,7 @@ Página de apoio à disciplina de Eletricidade e Magnetismo 1, ministrada pelo p
 | [Semana 08](#semana-08) | Lei de Gauss      |
 | [Semana 09](#semana-09) | Simetrias (gauss) |
 | [Semana 10](#semana-10) | Avaliação         |
+| [Semana 11](#semana-11) | Potencial Elétrico |
 
 
 
@@ -179,6 +180,19 @@ Página de apoio à disciplina de Eletricidade e Magnetismo 1, ministrada pelo p
 *03/05/2023 T4CD*
 
  - [x] Avaliação;
+
+
+
+## Semana 11
+
+*08/05/2023 T2AB*
+
+ - [x] Potencial elétrico;
+ - [x] Pós aula: problema resolvido 24.01;
+
+*10/05/2023 T2AB*
+
+ - [ ] Conteúdo;
 
 
 
