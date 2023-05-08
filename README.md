@@ -43,6 +43,7 @@ Página de apoio à disciplina de Eletricidade e Magnetismo 1, ministrada pelo p
 | [Semana 07](#semana-07) | Campo de um disco |
 | [Semana 08](#semana-08) | Lei de Gauss      |
 | [Semana 09](#semana-09) | Simetrias (gauss) |
+| [Semana 10](#semana-10) | Avaliação         |
 
 
 
@@ -166,6 +167,18 @@ Página de apoio à disciplina de Eletricidade e Magnetismo 1, ministrada pelo p
 
  - [ ] Simetria Esférica;
  - [ ] Resolução de questões;
+
+
+
+## Semana 10
+
+*01/05/2023 T2AB*
+
+ - FERIADO;
+
+*03/05/2023 T4CD*
+
+ - [x] Avaliação;
 
 
 
