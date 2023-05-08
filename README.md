@@ -165,8 +165,8 @@ Página de apoio à disciplina de Eletricidade e Magnetismo 1, ministrada pelo p
 
 *26/04/2023 T4CD*
 
- - [ ] Simetria Esférica;
- - [ ] Resolução de questões;
+ - [x] Simetria Esférica;
+ - [x] Resolução de questões;
 
 
 
