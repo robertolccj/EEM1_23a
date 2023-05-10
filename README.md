@@ -192,7 +192,8 @@ Página de apoio à disciplina de Eletricidade e Magnetismo 1, ministrada pelo p
 
 *10/05/2023 T2AB*
 
- - [ ] Conteúdo;
+ - [x] Superfícies Equipotenciais;
+ - [x] Pós aula: problema 5;
 
 
 
