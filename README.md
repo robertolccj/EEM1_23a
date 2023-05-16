@@ -45,6 +45,7 @@ Página de apoio à disciplina de Eletricidade e Magnetismo 1, ministrada pelo p
 | [Semana 09](#semana-09) | Simetrias (gauss) |
 | [Semana 10](#semana-10) | Avaliação         |
 | [Semana 11](#semana-11) | Potencial Elétrico |
+| [Semana 12](#semana-12) | Conteúdo          |
 
 
 
@@ -194,6 +195,19 @@ Página de apoio à disciplina de Eletricidade e Magnetismo 1, ministrada pelo p
 
  - [x] Superfícies Equipotenciais;
  - [x] Pós aula: problema 5;
+
+
+
+## Semana 12
+
+*15/05/2023 T2AB*
+
+ - [ ] Potencial gerado por cargas pontuais;
+
+*17/05/2023 T4CD*
+
+ - [ ] Potencial gerado por distribuição contínua de carga;
+ - [ ] Pós aula: problema 23;
 
 
 
