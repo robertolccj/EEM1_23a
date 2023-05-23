@@ -45,7 +45,9 @@ Página de apoio à disciplina de Eletricidade e Magnetismo 1, ministrada pelo p
 | [Semana 09](#semana-09) | Simetrias (gauss) |
 | [Semana 10](#semana-10) | Avaliação         |
 | [Semana 11](#semana-11) | Potencial Elétrico |
-| [Semana 12](#semana-12) | Conteúdo          |
+| [Semana 12](#semana-12) | Distribuição contínua |
+| [Semana 13](#semana-13) | Campo a partir do potencial |
+
 
 
 
@@ -208,6 +210,19 @@ Página de apoio à disciplina de Eletricidade e Magnetismo 1, ministrada pelo p
 
  - [ ] Potencial gerado por distribuição contínua de carga;
  - [ ] Pós aula: problema 23;
+
+
+
+## Semana 13
+
+*22/05/2023 T2AB*
+
+ - [ ] Potencial de um disco carregado;
+ - [ ] Cálculo do campo a partir do potencial;
+
+*24/05/2023 T4CD*
+
+ - [ ] Conteúdo;
 
 
 
