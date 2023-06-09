@@ -218,12 +218,13 @@ Página de apoio à disciplina de Eletricidade e Magnetismo 1, ministrada pelo p
 
 *22/05/2023 T2AB*
 
- - [ ] Potencial de um disco carregado;
- - [ ] Cálculo do campo a partir do potencial;
+ - [x] Potencial de um disco carregado;
+ - [x] Cálculo do campo a partir do potencial;
 
 *24/05/2023 T4CD*
 
- - [ ] Conteúdo;
+ - [x] Energia Potencial elétrica de um sistema de partículas;
+ - [x] Discussão dos exemplos 24.06 e 24.07;
 
 
 
@@ -231,11 +232,11 @@ Página de apoio à disciplina de Eletricidade e Magnetismo 1, ministrada pelo p
 
 *29/05/2023 T2AB*
 
- - [ ] Resolução de questões;
+ - [x] Resolução de questões;
 
 *31/05/2023 T4CD*
 
- - [ ] Resolução de questões;
+ - [x] Resolução de questões;
 
 
 
