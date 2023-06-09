@@ -48,6 +48,7 @@ Página de apoio à disciplina de Eletricidade e Magnetismo 1, ministrada pelo p
 | [Semana 12](#semana-12) | Distribuição contínua |
 | [Semana 13](#semana-13) | Campo a partir do potencial |
 | [Semana 14](#semana-14) | Resolução de questões |
+| [Semana 15](#semana-15) | Avaliação |
 
 
 
@@ -237,6 +238,18 @@ Página de apoio à disciplina de Eletricidade e Magnetismo 1, ministrada pelo p
 *31/05/2023 T4CD*
 
  - [x] Resolução de questões;
+
+
+
+## Semana 15
+
+*05/06/2023 T2AB*
+
+ - [x] Avaliação;
+
+*07/06/2023 T4CD*
+
+ - [x] Avaliação;
 
 
 
